@@ -2,8 +2,8 @@ import React from "react";
 
 function Createaccount() {
   return (
-    <div className="flex items-center justify-center p-0 relative">
-      <div className="flex flex-col bg-gray-100 h-[90%] w-[300px] my-4 md:my-6 m-6 p-3 md:py-4 md:px-4 shadow-lg">
+    <div className="flex items-center justify-center p-0 ">
+      <div className="flex flex-col bg-gray-100 h-[100%]  w-[420px] my-8   md:my-6 m-6 p-3 md:py-4 md:px-4 shadow-lg relative">
         <h1 className="text-2xl font-bold  ms-2 me-20 ">Create Your PopX account</h1>
         <div className="my-4">
           <div className="m-4 my-7 relative">
@@ -55,13 +55,16 @@ function Createaccount() {
           </div>
       
           <p>Are you an Agency? </p>
-          <p className="text-red-600 absolute bottom-0  left-0 ">*</p>
+          <p className="text-red-600 absolute bottom-[88px]  left-[155px] ">*</p>
             <input type="radio" id="yes" 
             /> 
             <label for="yes">Yes</label>
             <input type="radio" id="yes" 
             className="ms-7"/>
             <label for="yes" >No</label>
+        </div>
+        <div className="h-[70px] md:h-[30px]">
+
         </div>
         <div>
             <button className="w-full text-white py-1 rounded-md bg-purple-700">Create Account</button>
