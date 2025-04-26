@@ -3,8 +3,8 @@ import {Link} from 'react-router-dom'
 function Home() {
   return (
     <div className="flex items-center justify-center p-0  ">
-      <div className=" bg-white h-[100%]  w-[350px] my-8 md:my-6 m-6 p-3 md:py-4 md:px-4 shadow-lg">
-        <div className='h-[550px] md:[300px]'>
+      <div className=" bg-white h-[100%]  w-[450px] my-8 md:my-6 m-6 p-3 md:py-4 md:px-4 shadow-lg">
+        <div className='h-[600px] md:[300px]'>
            
        </div>
         <h1 className="text-start text-2xl font-bold">Welcome to PopX</h1>
