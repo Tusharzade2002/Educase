@@ -1,9 +1,9 @@
 import React from 'react'
-
+import { Link } from 'react-router-dom'
 function SignIn() {
   return (
     <div className="flex items-center justify-center p-0  ">
-      <div className="  bg-gray-100 h-[90%] w-[300px] my-4 md:my-6 m-6 p-3 md:py-4 md:px-4 shadow-lg">
+      <div className="  bg-gray-100 h-[90%] w-[340px] my-4 md:my-6 m-6 p-3 md:py-4 md:px-4 shadow-lg">
       
         <h1 className='text-2xl'>SignIn To Your PopX Account</h1>
         <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit.</p>
@@ -21,10 +21,12 @@ function SignIn() {
             
             <input type="text" className=" w-full border text-black border-gray-400 bg-transparent rounded-sm py-1  px-2" placeholder="Marry Doe" />
           </div>
+          <Link to="/dashboard">
           <button className="w-full bg-purple-800 text-white text-lg font-bold my-1 py-1 rounded-lg">
             Login
           </button>
-          <div className='h-[420px] md:h-[179px]'>
+          </Link>
+          <div className='h-[520px] md:h-[179px]'>
 
           </div>
       </div>
