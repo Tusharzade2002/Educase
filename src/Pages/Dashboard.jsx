@@ -19,7 +19,7 @@ function Dashboard() {
         <div className="p-3 border-b-2">
           Lorem ipsum dolor sit amet consectetur adipisicing elit. Veniam nostrum facilis sint eos deleniti qu
         </div>
-        <div className="h-[500px]">
+        <div className="h-[530px] md:h-[260px]">
 
         </div>
       </div>

@@ -21,7 +21,7 @@ function Createaccount() {
 
   return (
     <div className="flex items-center justify-center p-0 ">
-      <div className="flex flex-col bg-gray-100 h-[100%]  w-[420px] my-8   md:my-6 m-6 p-3 md:py-4 md:px-4 shadow-lg relative">
+      <div className="flex flex-col bg-white h-[100%]  w-[420px] my-8   md:my-6 m-6 p-3 md:py-4 md:px-4 shadow-lg relative">
         <form onSubmit={handlesubmit}>
           <h1 className="text-2xl font-bold  ms-2 me-20 ">
             Create Your PopX account
