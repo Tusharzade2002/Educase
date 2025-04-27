@@ -28,10 +28,10 @@ function Createaccount() {
           </h1>
           <div className="my-4">
             <div className="m-4 my-7 relative">
-              <div className="flex absolute bottom-6  left-2 bg-gray-100  ">
+              <div className="flex absolute bottom-6  left-2 bg-white  ">
                 <div className="text-purple-700 text-sm">Full Name </div>
               </div>
-              <div className="flex absolute bottom-6  left-[70px] bg-gray-100  ">
+              <div className="flex absolute bottom-6  left-[70px] bg-white  ">
                 <div className="text-red-700 ">*</div>
               </div>
               <input
@@ -47,10 +47,10 @@ function Createaccount() {
             </div>
 
             <div className="m-4 my-7 relative">
-              <div className="flex absolute bottom-6  left-2 bg-gray-100  ">
+              <div className="flex absolute bottom-6  left-2 bg-white  ">
                 <div className="text-purple-700 text-sm">Phone Number </div>
               </div>
-              <div className="flex absolute bottom-6  left-[102px] bg-gray-100  ">
+              <div className="flex absolute bottom-6  left-[102px] bg-white  ">
                 <div className="text-red-700 ">*</div>
               </div>
               <input
@@ -66,10 +66,10 @@ function Createaccount() {
             </div>
 
             <div className="m-4 my-1 relative">
-              <div className="flex absolute bottom-6  left-2 bg-gray-100  ">
+              <div className="flex absolute bottom-6  left-2 bg-white  ">
                 <div className="text-purple-700 text-sm">Email Address</div>
               </div>
-              <div className="flex absolute bottom-6  left-[95px] bg-gray-100  ">
+              <div className="flex absolute bottom-6  left-[95px] bg-white  ">
                 <div className="text-red-700 ">*</div>
               </div>
               <input
@@ -85,10 +85,10 @@ function Createaccount() {
             </div>
 
             <div className="m-4 my-7 relative">
-              <div className="flex absolute bottom-6  left-2 bg-gray-100  ">
+              <div className="flex absolute bottom-6  left-2 bg-white  ">
                 <div className="text-purple-700 text-sm">Password </div>
               </div>
-              <div className="flex absolute bottom-6  left-[66px] bg-gray-100  ">
+              <div className="flex absolute bottom-6  left-[66px] bg-white  ">
                 <div className="text-red-700 ">*</div>
               </div>
               <input
@@ -104,7 +104,7 @@ function Createaccount() {
             </div>
 
             <div className="m-4 my-7 relative">
-              <div className="flex absolute bottom-6  left-2 bg-gray-100  ">
+              <div className="flex absolute bottom-6  left-2 bg-white  ">
                 <div className="text-purple-700 text-sm">Company Name</div>
               </div>
 

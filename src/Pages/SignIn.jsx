@@ -8,14 +8,14 @@ function SignIn() {
         <h1 className='text-2xl'>SignIn To Your PopX Account</h1>
         <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit.</p>
         <div className="m-4 my-7 relative">
-            <div className="flex absolute bottom-6  left-2 bg-gray-100  ">
+            <div className="flex absolute bottom-6  left-2 bg-white  ">
                 <div className="text-purple-700 text-sm">Full Name </div>
             </div>
             
             <input type="text" className=" w-full border text-black border-gray-400 bg-transparent rounded-sm py-1  px-2" placeholder="Marry Doe" />
           </div>
           <div className="m-4 my-7 relative">
-            <div className="flex absolute bottom-6  left-2 bg-gray-100  ">
+            <div className="flex absolute bottom-6  left-2 bg-white  ">
                 <div className="text-purple-700 text-sm">Password </div>
             </div>
             
