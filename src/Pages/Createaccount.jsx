@@ -127,7 +127,7 @@ function Createaccount() {
             <input type="radio" id="yes" className="ms-7" />
             <label for="yes">No</label>
           </div>
-          <div className="h-[200px] md:h-[30px]"></div>
+          <div className="h-[300px] md:h-[30px]"></div>
           <div>
             <button
               type="submit"

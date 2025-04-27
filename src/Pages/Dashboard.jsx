@@ -3,7 +3,7 @@ import image from "../assets/Ellipse 114.png";
 function Dashboard() {
   return (
     <div className="flex items-center justify-center p-0  ">
-      <div className="flex flex-col bg-gray-100 h-[90%] w-[300px]  m-10    shadow-lg">
+      <div className="flex flex-col bg-gray-100 h-[90%] w-[320px]  m-10    shadow-lg">
         <div className="w-full h-9 bg-white px-9 py-13 ">
           <h1 className="text-xl">Account Setting</h1>
         </div>
@@ -17,7 +17,7 @@ function Dashboard() {
         <div className="p-3 border-b-2">
           Lorem ipsum dolor sit amet consectetur adipisicing elit. Veniam nostrum facilis sint eos deleniti qu
         </div>
-        <div className="h-[220px]">
+        <div className="h-[430px]">
 
         </div>
       </div>

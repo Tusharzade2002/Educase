@@ -24,7 +24,7 @@ function SignIn() {
           <button className="w-full bg-purple-800 text-white text-lg font-bold my-1 py-1 rounded-lg">
             Login
           </button>
-          <div className='h-[150px] md:h-[179px]'>
+          <div className='h-[420px] md:h-[179px]'>
 
           </div>
       </div>
